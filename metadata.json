@@ -1,0 +1,6 @@
+{
+  "name": "Music Generation with AI",
+  "description": "An interactive internship portal for the Music Generation with AI project, featuring a web-based LSTM music generator, complete downloadable Python MIDI dataset & model codebase, interactive presentations, Viva and Interview prep, and an AI Project Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
